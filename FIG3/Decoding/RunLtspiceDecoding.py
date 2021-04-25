@@ -8,11 +8,11 @@ import csv
 import pandas as pd
 
 LTSPICE_PATH = r"C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe"
-CIRCUIT_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3\B-D"
+CIRCUIT_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3\Decoding\B-D"
 
 
 def RunSim():
-    circuits = glob.glob(CIRCUIT_FOLDER + r'\*.asc')
+    circuits = glob.glob(CIRCUIT_FOLDER + r'\*\*\*.asc')
 
     for ckt in circuits:
         print("-I- Run sim {}".format(ckt))
@@ -20,10 +20,11 @@ def RunSim():
         (output, err) = process.communicate()
         exit_code = process.wait()
         print("-I- Done")
+        break
 
 
 def ConvertRAWtoTXT():
-    rawFiles = glob.glob(CIRCUIT_FOLDER + r'\*.raw')
+    rawFiles = glob.glob(CIRCUIT_FOLDER + r'\*\*\*.raw')
     for raw in rawFiles:
         if ".op" in raw:
             continue
@@ -93,7 +94,7 @@ def HandleSample(voutIndexToVal):
 
 
 def ConvertTXTtoCSV():
-    filesToRead = glob.glob(CIRCUIT_FOLDER + r'\*.txt')
+    filesToRead = glob.glob(CIRCUIT_FOLDER + r'\*\*\*.txt')
 
     for res in filesToRead:
         print("-I- Converting {} to CSV".format(res))
@@ -156,51 +157,6 @@ def ConvertTXTtoEventIMG():
             imgName = res.replace(".csv", ".png")
 
             plt.savefig(imgName)
-
-
-def CreateRMS():
-    RESULTS_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3"
-
-
-    filesToRead = glob.glob(CIRCUIT_FOLDER + "\\" + r'*.csv')
-    rmsVals = []
-
-    for res in filesToRead:
-        print(res)
-        if "SIN" not in res:
-            continue
-
-        sres = res.split("\\")[-1].split(".")[0].split("_")[1].replace("n", "")
-        sres = float(sres)
-
-        with open(res, 'r') as in_file:
-            fl = in_file.readline()
-            deltaVals = []
-
-            for line in in_file:
-                print(line)
-                sline = line.split(",")
-                x1 = float(sline[1])
-                x2 = float(sline[2])
-                delta = (x1 - x2) ** 2
-                deltaVals.append(delta)
-
-            sum = np.sum(deltaVals)
-            sum = sum / len(deltaVals)
-            rms = np.sqrt(sum)
-            rmsVals.append((sres, rms))
-
-    rmsVals = sorted(rmsVals, key=lambda tup: tup[0])
-
-    csvFile = RESULTS_FOLDER + "\\rms.csv"
-
-    with open(csvFile, mode='w', newline='') as out_file:
-        writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        header = ["neuron", "rms"]
-        writer.writerow(header)
-
-        for r in rmsVals:
-            writer.writerow([r[0], r[1]])
 
 
 RunSim()
