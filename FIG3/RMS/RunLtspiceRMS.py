@@ -10,7 +10,7 @@ import os
 
 LTSPICE_PATH = r"C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe"
 RESULTS_ROOT_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3\RMS"
-CIRCUIT_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3\RMS\*\*"
+CIRCUIT_FOLDER = RESULTS_ROOT_FOLDER+r"\*\*"
 
 
 def cleanup():

@@ -8,7 +8,7 @@ import csv
 import pandas as pd
 
 LTSPICE_PATH = r"C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe"
-CIRCUIT_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3\E"
+CIRCUIT_FOLDER = r"C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG3\B-D"
 
 
 def RunSim():
