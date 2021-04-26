@@ -4,8 +4,8 @@
 
 ## Please make sure the LTspice simulator and the Python LTSpice library are installed.
 
-[LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html/)
-[PyLtspice](https://pypi.org/project/ltspice//)
+[LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html/) 
+[PyLtspice](https://pypi.org/project/ltspice/)
 
 For any issue please contact:
 avi@nbel-lab.com
