@@ -2,7 +2,7 @@
 
 ![Model](https://github.com/NBELab/TBioCAS2021/blob/main/Figures/Picture1.png)
 
-## Please make sure the LTspice simulator and the Python LTSpice library are installed.
+### Please make sure the LTspice simulator and the Python LTSpice library are installed.
 
 [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html/) 
 [PyLtspice](https://pypi.org/project/ltspice/)
