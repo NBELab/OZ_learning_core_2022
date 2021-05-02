@@ -1,0 +1,2222 @@
+Title: * C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG5\4OZ\uniform\OZ_4_uniform_curves.asc
+Date: Tue Apr 27 08:49:13 2021
+Plotname: Operating Point
+Flags: real
+No. Variables: 1071
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice XVII
+Backannotation: u1 1 2 3 4 5
+Backannotation: u2 1 2 3 4 5
+Backannotation: u3 1 2 3 4 5
+Backannotation: u4 1 2 3 4 5
+Backannotation: u5 1 2 3 4 5
+Backannotation: u6 1 2 3 4 5
+Backannotation: u7 1 2 3 4 5
+Backannotation: u8 1 2 3 4 5
+Backannotation: u121 1 2 3 4 5
+Backannotation: u122 1 2 3 4 5
+Backannotation: u123 1 2 3 4 5
+Backannotation: u9 1 2 3 4 5
+Backannotation: u10 1 2 3 4 5
+Backannotation: u11 1 2 3 4 5
+Backannotation: u12 1 2 3 4 5
+Backannotation: u13 1 2 3 4 5
+Backannotation: u14 1 2 3 4 5
+Backannotation: u15 1 2 3 4 5
+Backannotation: u16 1 2 3 4 5
+Backannotation: u17 1 2 3 4 5
+Backannotation: u18 1 2 3 4 5
+Backannotation: u19 1 2 3 4 5
+Backannotation: u20 1 2 3 4 5
+Backannotation: u21 1 2 3 4 5
+Backannotation: u22 1 2 3 4 5
+Backannotation: u23 1 2 3 4 5
+Backannotation: u24 1 2 3 4 5
+Backannotation: u25 1 2 3 4 5
+Backannotation: u26 1 2 3 4 5
+Backannotation: u27 1 2 3 4 5
+Backannotation: u28 1 2 3 4 5
+Backannotation: u29 1 2 3 4 5
+Backannotation: u30 1 2 3 4 5
+Backannotation: u31 1 2 3 4 5
+Backannotation: u32 1 2 3 4 5
+Backannotation: u33 1 2 3 4 5
+Backannotation: u34 1 2 3 4 5
+Backannotation: u35 1 2 3 4 5
+Backannotation: u36 1 2 3 4 5
+Backannotation: u65 1 2 3 4 5
+Backannotation: u66 1 2 3 4 5
+Backannotation: u67 1 2 3 4 5
+Backannotation: u68 1 2 3 4 5
+Backannotation: u69 1 2 3 4 5
+Backannotation: u70 1 2 3 4 5
+Backannotation: u71 1 2 3 4 5
+Backannotation: u72 1 2 3 4 5
+Backannotation: u73 1 2 3 4 5
+Backannotation: u74 1 2 3 4 5
+Backannotation: u75 1 2 3 4 5
+Backannotation: u76 1 2 3 4 5
+Backannotation: u77 1 2 3 4 5
+Backannotation: u78 1 2 3 4 5
+Backannotation: u79 1 2 3 4 5
+Backannotation: u80 1 2 3 4 5
+Backannotation: u81 1 2 3 4 5
+Backannotation: u82 1 2 3 4 5
+Backannotation: u83 1 2 3 4 5
+Backannotation: u84 1 2 3 4 5
+Backannotation: u85 1 2 3 4 5
+Backannotation: u86 1 2 3 4 5
+Backannotation: u87 1 2 3 4 5
+Backannotation: u88 1 2 3 4 5
+Backannotation: u89 1 2 3 4 5
+Backannotation: u90 1 2 3 4 5
+Backannotation: u91 1 2 3 4 5
+Backannotation: u92 1 2 3 4 5
+Backannotation: u124 1 2 3 4 5
+Backannotation: u125 1 2 3 4 5
+Backannotation: u126 1 2 3 4 5
+Variables:
+	0	V(vint)	voltage
+	1	V(vdd)	voltage
+	2	V(vss-)	voltage
+	3	V(vss+)	voltage
+	4	V(voffset)	voltage
+	5	V(vref)	voltage
+	6	V(vw)	voltage
+	7	V(vgnd)	voltage
+	8	V(n009)	voltage
+	9	V(n010)	voltage
+	10	V(n015)	voltage
+	11	V(n011)	voltage
+	12	V(n012)	voltage
+	13	V(n013)	voltage
+	14	V(n014)	voltage
+	15	V(n018)	voltage
+	16	V(n019)	voltage
+	17	V(n021)	voltage
+	18	V(n022)	voltage
+	19	V(vin)	voltage
+	20	V(vpos)	voltage
+	21	V(vneg)	voltage
+	22	V(n005)	voltage
+	23	V(n002)	voltage
+	24	V(spikes1)	voltage
+	25	V(n001)	voltage
+	26	V(n007)	voltage
+	27	V(v0)	voltage
+	28	V(vout1)	voltage
+	29	V(n026)	voltage
+	30	V(n024)	voltage
+	31	V(spikes2)	voltage
+	32	V(n020)	voltage
+	33	V(n028)	voltage
+	34	V(v1)	voltage
+	35	V(vout2)	voltage
+	36	V(n006)	voltage
+	37	V(n004)	voltage
+	38	V(spikes5)	voltage
+	39	V(n003)	voltage
+	40	V(n008)	voltage
+	41	V(vout5)	voltage
+	42	V(n025)	voltage
+	43	V(n023)	voltage
+	44	V(spikes6)	voltage
+	45	V(n016)	voltage
+	46	V(n027)	voltage
+	47	V(vout6)	voltage
+	48	V(vout)	voltage
+	49	V(n031)	voltage
+	50	V(n017)	voltage
+	51	V(n029)	voltage
+	52	V(n030)	voltage
+	53	V(t1)	voltage
+	54	V(t2)	voltage
+	55	V(t5)	voltage
+	56	V(t6)	voltage
+	57	V(n097)	voltage
+	58	V(wc)	voltage
+	59	V(n072)	voltage
+	60	V(n080)	voltage
+	61	V(n081)	voltage
+	62	V(n051)	voltage
+	63	V(n090)	voltage
+	64	V(n071)	voltage
+	65	V(n040)	voltage
+	66	V(n044)	voltage
+	67	V(n069)	voltage
+	68	V(n070)	voltage
+	69	V(errorsig)	voltage
+	70	V(n048)	voltage
+	71	V(n046)	voltage
+	72	V(n045)	voltage
+	73	V(n039)	voltage
+	74	V(n088)	voltage
+	75	V(n042)	voltage
+	76	V(n089)	voltage
+	77	V(n049)	voltage
+	78	V(n043)	voltage
+	79	V(n052)	voltage
+	80	V(n082)	voltage
+	81	V(n050)	voltage
+	82	V(n091)	voltage
+	83	V(n057)	voltage
+	84	V(n054)	voltage
+	85	V(n053)	voltage
+	86	V(n101)	voltage
+	87	V(n055)	voltage
+	88	V(n102)	voltage
+	89	V(n058)	voltage
+	90	V(n056)	voltage
+	91	V(n061)	voltage
+	92	V(n092)	voltage
+	93	V(n062)	voltage
+	94	V(n063)	voltage
+	95	V(n169)	voltage
+	96	V(n144)	voltage
+	97	V(n152)	voltage
+	98	V(n153)	voltage
+	99	V(n123)	voltage
+	100	V(n162)	voltage
+	101	V(n143)	voltage
+	102	V(n112)	voltage
+	103	V(n116)	voltage
+	104	V(n141)	voltage
+	105	V(n142)	voltage
+	106	V(n120)	voltage
+	107	V(n118)	voltage
+	108	V(n117)	voltage
+	109	V(n111)	voltage
+	110	V(n160)	voltage
+	111	V(n114)	voltage
+	112	V(n161)	voltage
+	113	V(n121)	voltage
+	114	V(n115)	voltage
+	115	V(n124)	voltage
+	116	V(n154)	voltage
+	117	V(n122)	voltage
+	118	V(n163)	voltage
+	119	V(n129)	voltage
+	120	V(n126)	voltage
+	121	V(n125)	voltage
+	122	V(n173)	voltage
+	123	V(n127)	voltage
+	124	V(n174)	voltage
+	125	V(n130)	voltage
+	126	V(n128)	voltage
+	127	V(n133)	voltage
+	128	V(n164)	voltage
+	129	V(n134)	voltage
+	130	V(n135)	voltage
+	131	V(n108)	voltage
+	132	V(n096)	voltage
+	133	V(n098)	voltage
+	134	V(n099)	voltage
+	135	V(n074)	voltage
+	136	V(n105)	voltage
+	137	V(n095)	voltage
+	138	V(n047)	voltage
+	139	V(n064)	voltage
+	140	V(n093)	voltage
+	141	V(n094)	voltage
+	142	V(n067)	voltage
+	143	V(n066)	voltage
+	144	V(n065)	voltage
+	145	V(n041)	voltage
+	146	V(n103)	voltage
+	147	V(n059)	voltage
+	148	V(n104)	voltage
+	149	V(n068)	voltage
+	150	V(n060)	voltage
+	151	V(n075)	voltage
+	152	V(n100)	voltage
+	153	V(n073)	voltage
+	154	V(n106)	voltage
+	155	V(n083)	voltage
+	156	V(n077)	voltage
+	157	V(n076)	voltage
+	158	V(n109)	voltage
+	159	V(n078)	voltage
+	160	V(n110)	voltage
+	161	V(n084)	voltage
+	162	V(n079)	voltage
+	163	V(n085)	voltage
+	164	V(n107)	voltage
+	165	V(n086)	voltage
+	166	V(n087)	voltage
+	167	V(n180)	voltage
+	168	V(n168)	voltage
+	169	V(n170)	voltage
+	170	V(n171)	voltage
+	171	V(n146)	voltage
+	172	V(n177)	voltage
+	173	V(n167)	voltage
+	174	V(n119)	voltage
+	175	V(n136)	voltage
+	176	V(n165)	voltage
+	177	V(n166)	voltage
+	178	V(n139)	voltage
+	179	V(n138)	voltage
+	180	V(n137)	voltage
+	181	V(n113)	voltage
+	182	V(n175)	voltage
+	183	V(n131)	voltage
+	184	V(n176)	voltage
+	185	V(n140)	voltage
+	186	V(n132)	voltage
+	187	V(n147)	voltage
+	188	V(n172)	voltage
+	189	V(n145)	voltage
+	190	V(n178)	voltage
+	191	V(n155)	voltage
+	192	V(n149)	voltage
+	193	V(n148)	voltage
+	194	V(n181)	voltage
+	195	V(n150)	voltage
+	196	V(n182)	voltage
+	197	V(n156)	voltage
+	198	V(n151)	voltage
+	199	V(n157)	voltage
+	200	V(n179)	voltage
+	201	V(n158)	voltage
+	202	V(n159)	voltage
+	203	V(n033)	voltage
+	204	V(n037)	voltage
+	205	V(n034)	voltage
+	206	V(n036)	voltage
+	207	V(n035)	voltage
+	208	V(n038)	voltage
+	209	V(n032)	voltage
+	210	V(v2)	voltage
+	211	V(v3)	voltage
+	212	V(v8)	voltage
+	213	V(v4)	voltage
+	214	V(v5)	voltage
+	215	V(v6)	voltage
+	216	V(v7)	voltage
+	217	I(B1)	device_current
+	218	Id(M22)	device_current
+	219	Ig(M22)	device_current
+	220	Ib(M22)	device_current
+	221	Is(M22)	device_current
+	222	Id(M21)	device_current
+	223	Ig(M21)	device_current
+	224	Ib(M21)	device_current
+	225	Is(M21)	device_current
+	226	Id(M18)	device_current
+	227	Ig(M18)	device_current
+	228	Ib(M18)	device_current
+	229	Is(M18)	device_current
+	230	Id(M17)	device_current
+	231	Ig(M17)	device_current
+	232	Ib(M17)	device_current
+	233	Is(M17)	device_current
+	234	Id(M12)	device_current
+	235	Ig(M12)	device_current
+	236	Ib(M12)	device_current
+	237	Is(M12)	device_current
+	238	Id(M11)	device_current
+	239	Ig(M11)	device_current
+	240	Ib(M11)	device_current
+	241	Is(M11)	device_current
+	242	Id(Mnnot12)	device_current
+	243	Ig(Mnnot12)	device_current
+	244	Ib(Mnnot12)	device_current
+	245	Is(Mnnot12)	device_current
+	246	Id(Mvlk6)	device_current
+	247	Ig(Mvlk6)	device_current
+	248	Ib(Mvlk6)	device_current
+	249	Is(Mvlk6)	device_current
+	250	Id(Mref6)	device_current
+	251	Ig(Mref6)	device_current
+	252	Ib(Mref6)	device_current
+	253	Is(Mref6)	device_current
+	254	Id(Mvref6)	device_current
+	255	Ig(Mvref6)	device_current
+	256	Ib(Mvref6)	device_current
+	257	Is(Mvref6)	device_current
+	258	Id(Mnnot11)	device_current
+	259	Ig(Mnnot11)	device_current
+	260	Ib(Mnnot11)	device_current
+	261	Is(Mnnot11)	device_current
+	262	Id(M10)	device_current
+	263	Ig(M10)	device_current
+	264	Ib(M10)	device_current
+	265	Is(M10)	device_current
+	266	Id(M9)	device_current
+	267	Ig(M9)	device_current
+	268	Ib(M9)	device_current
+	269	Is(M9)	device_current
+	270	Id(Mnnot10)	device_current
+	271	Ig(Mnnot10)	device_current
+	272	Ib(Mnnot10)	device_current
+	273	Is(Mnnot10)	device_current
+	274	Id(Mvlk5)	device_current
+	275	Ig(Mvlk5)	device_current
+	276	Ib(Mvlk5)	device_current
+	277	Is(Mvlk5)	device_current
+	278	Id(Mref5)	device_current
+	279	Ig(Mref5)	device_current
+	280	Ib(Mref5)	device_current
+	281	Is(Mref5)	device_current
+	282	Id(Mvref5)	device_current
+	283	Ig(Mvref5)	device_current
+	284	Ib(Mvref5)	device_current
+	285	Is(Mvref5)	device_current
+	286	Id(Mnnot9)	device_current
+	287	Ig(Mnnot9)	device_current
+	288	Ib(Mnnot9)	device_current
+	289	Is(Mnnot9)	device_current
+	290	Id(M4)	device_current
+	291	Ig(M4)	device_current
+	292	Ib(M4)	device_current
+	293	Is(M4)	device_current
+	294	Id(M3)	device_current
+	295	Ig(M3)	device_current
+	296	Ib(M3)	device_current
+	297	Is(M3)	device_current
+	298	Id(Mnnot4)	device_current
+	299	Ig(Mnnot4)	device_current
+	300	Ib(Mnnot4)	device_current
+	301	Is(Mnnot4)	device_current
+	302	Id(Mvlk2)	device_current
+	303	Ig(Mvlk2)	device_current
+	304	Ib(Mvlk2)	device_current
+	305	Is(Mvlk2)	device_current
+	306	Id(Mref2)	device_current
+	307	Ig(Mref2)	device_current
+	308	Ib(Mref2)	device_current
+	309	Is(Mref2)	device_current
+	310	Id(Mvref2)	device_current
+	311	Ig(Mvref2)	device_current
+	312	Ib(Mvref2)	device_current
+	313	Is(Mvref2)	device_current
+	314	Id(Mnnot3)	device_current
+	315	Ig(Mnnot3)	device_current
+	316	Ib(Mnnot3)	device_current
+	317	Is(Mnnot3)	device_current
+	318	Id(M2)	device_current
+	319	Ig(M2)	device_current
+	320	Ib(M2)	device_current
+	321	Is(M2)	device_current
+	322	Id(M1)	device_current
+	323	Ig(M1)	device_current
+	324	Ib(M1)	device_current
+	325	Is(M1)	device_current
+	326	Id(Mnnot2)	device_current
+	327	Ig(Mnnot2)	device_current
+	328	Ib(Mnnot2)	device_current
+	329	Is(Mnnot2)	device_current
+	330	Id(Mvlk1)	device_current
+	331	Ig(Mvlk1)	device_current
+	332	Ib(Mvlk1)	device_current
+	333	Is(Mvlk1)	device_current
+	334	Id(Mref1)	device_current
+	335	Ig(Mref1)	device_current
+	336	Ib(Mref1)	device_current
+	337	Is(Mref1)	device_current
+	338	Id(Mvref1)	device_current
+	339	Ig(Mvref1)	device_current
+	340	Ib(Mvref1)	device_current
+	341	Is(Mvref1)	device_current
+	342	Id(Mnnot1)	device_current
+	343	Ig(Mnnot1)	device_current
+	344	Ib(Mnnot1)	device_current
+	345	Is(Mnnot1)	device_current
+	346	Id(Mpnot12)	device_current
+	347	Ig(Mpnot12)	device_current
+	348	Ib(Mpnot12)	device_current
+	349	Is(Mpnot12)	device_current
+	350	Id(Min6)	device_current
+	351	Ig(Min6)	device_current
+	352	Ib(Min6)	device_current
+	353	Is(Min6)	device_current
+	354	Id(Mina6)	device_current
+	355	Ig(Mina6)	device_current
+	356	Ib(Mina6)	device_current
+	357	Is(Mina6)	device_current
+	358	Id(Mpnot11)	device_current
+	359	Ig(Mpnot11)	device_current
+	360	Ib(Mpnot11)	device_current
+	361	Is(Mpnot11)	device_current
+	362	Id(Mw6)	device_current
+	363	Ig(Mw6)	device_current
+	364	Ib(Mw6)	device_current
+	365	Is(Mw6)	device_current
+	366	Id(Mpnot10)	device_current
+	367	Ig(Mpnot10)	device_current
+	368	Ib(Mpnot10)	device_current
+	369	Is(Mpnot10)	device_current
+	370	Id(Min5)	device_current
+	371	Ig(Min5)	device_current
+	372	Ib(Min5)	device_current
+	373	Is(Min5)	device_current
+	374	Id(Mina5)	device_current
+	375	Ig(Mina5)	device_current
+	376	Ib(Mina5)	device_current
+	377	Is(Mina5)	device_current
+	378	Id(Mpnot9)	device_current
+	379	Ig(Mpnot9)	device_current
+	380	Ib(Mpnot9)	device_current
+	381	Is(Mpnot9)	device_current
+	382	Id(Mw5)	device_current
+	383	Ig(Mw5)	device_current
+	384	Ib(Mw5)	device_current
+	385	Is(Mw5)	device_current
+	386	Id(Mpnot4)	device_current
+	387	Ig(Mpnot4)	device_current
+	388	Ib(Mpnot4)	device_current
+	389	Is(Mpnot4)	device_current
+	390	Id(Min2)	device_current
+	391	Ig(Min2)	device_current
+	392	Ib(Min2)	device_current
+	393	Is(Min2)	device_current
+	394	Id(Mina2)	device_current
+	395	Ig(Mina2)	device_current
+	396	Ib(Mina2)	device_current
+	397	Is(Mina2)	device_current
+	398	Id(Mpnot3)	device_current
+	399	Ig(Mpnot3)	device_current
+	400	Ib(Mpnot3)	device_current
+	401	Is(Mpnot3)	device_current
+	402	Id(Mw2)	device_current
+	403	Ig(Mw2)	device_current
+	404	Ib(Mw2)	device_current
+	405	Is(Mw2)	device_current
+	406	Id(Mpnot2)	device_current
+	407	Ig(Mpnot2)	device_current
+	408	Ib(Mpnot2)	device_current
+	409	Is(Mpnot2)	device_current
+	410	Id(Min1)	device_current
+	411	Ig(Min1)	device_current
+	412	Ib(Min1)	device_current
+	413	Is(Min1)	device_current
+	414	Id(Mina1)	device_current
+	415	Ig(Mina1)	device_current
+	416	Ib(Mina1)	device_current
+	417	Is(Mina1)	device_current
+	418	Id(Mpnot1)	device_current
+	419	Ig(Mpnot1)	device_current
+	420	Ib(Mpnot1)	device_current
+	421	Is(Mpnot1)	device_current
+	422	Id(Mw1)	device_current
+	423	Ig(Mw1)	device_current
+	424	Ib(Mw1)	device_current
+	425	Is(Mw1)	device_current
+	426	I(C9)	device_current
+	427	I(C6)	device_current
+	428	I(C5)	device_current
+	429	I(C2)	device_current
+	430	I(C1)	device_current
+	431	I(Cint6)	device_current
+	432	I(Ck6)	device_current
+	433	I(Csyn6)	device_current
+	434	I(Cint5)	device_current
+	435	I(Ck5)	device_current
+	436	I(Csyn5)	device_current
+	437	I(Cint2)	device_current
+	438	I(Ck2)	device_current
+	439	I(Csyn2)	device_current
+	440	I(Cint1)	device_current
+	441	I(Ck1)	device_current
+	442	I(Csyn1)	device_current
+	443	I(D96)	device_current
+	444	I(D95)	device_current
+	445	I(D94)	device_current
+	446	I(D93)	device_current
+	447	I(D92)	device_current
+	448	I(D91)	device_current
+	449	I(D90)	device_current
+	450	I(D89)	device_current
+	451	I(D88)	device_current
+	452	I(D87)	device_current
+	453	I(D86)	device_current
+	454	I(D85)	device_current
+	455	I(D84)	device_current
+	456	I(D83)	device_current
+	457	I(D82)	device_current
+	458	I(D81)	device_current
+	459	I(D80)	device_current
+	460	I(D79)	device_current
+	461	I(D78)	device_current
+	462	I(D77)	device_current
+	463	I(D76)	device_current
+	464	I(D75)	device_current
+	465	I(D74)	device_current
+	466	I(D73)	device_current
+	467	I(D72)	device_current
+	468	I(D71)	device_current
+	469	I(D70)	device_current
+	470	I(D69)	device_current
+	471	I(D68)	device_current
+	472	I(D67)	device_current
+	473	I(D66)	device_current
+	474	I(D65)	device_current
+	475	I(D32)	device_current
+	476	I(D31)	device_current
+	477	I(D30)	device_current
+	478	I(D29)	device_current
+	479	I(D28)	device_current
+	480	I(D27)	device_current
+	481	I(D26)	device_current
+	482	I(D25)	device_current
+	483	I(D24)	device_current
+	484	I(D23)	device_current
+	485	I(D22)	device_current
+	486	I(D21)	device_current
+	487	I(D20)	device_current
+	488	I(D19)	device_current
+	489	I(D18)	device_current
+	490	I(D17)	device_current
+	491	I(D16)	device_current
+	492	I(D15)	device_current
+	493	I(D14)	device_current
+	494	I(D13)	device_current
+	495	I(D12)	device_current
+	496	I(D11)	device_current
+	497	I(D10)	device_current
+	498	I(D9)	device_current
+	499	I(D8)	device_current
+	500	I(D7)	device_current
+	501	I(D6)	device_current
+	502	I(D5)	device_current
+	503	I(D4)	device_current
+	504	I(D3)	device_current
+	505	I(D2)	device_current
+	506	I(D1)	device_current
+	507	I(R375)	device_current
+	508	I(R374)	device_current
+	509	I(R373)	device_current
+	510	I(R372)	device_current
+	511	I(R5)	device_current
+	512	I(R4)	device_current
+	513	I(R3)	device_current
+	514	I(R2)	device_current
+	515	I(R1)	device_current
+	516	I(R371)	device_current
+	517	I(R370)	device_current
+	518	I(R369)	device_current
+	519	I(R368)	device_current
+	520	I(R367)	device_current
+	521	I(R366)	device_current
+	522	I(R365)	device_current
+	523	I(R269)	device_current
+	524	I(R268)	device_current
+	525	I(R267)	device_current
+	526	I(R266)	device_current
+	527	I(R265)	device_current
+	528	I(R264)	device_current
+	529	I(R263)	device_current
+	530	I(R262)	device_current
+	531	I(R261)	device_current
+	532	I(R260)	device_current
+	533	I(R259)	device_current
+	534	I(R258)	device_current
+	535	I(R257)	device_current
+	536	I(R256)	device_current
+	537	I(R255)	device_current
+	538	I(R254)	device_current
+	539	I(R253)	device_current
+	540	I(R252)	device_current
+	541	I(R251)	device_current
+	542	I(R250)	device_current
+	543	I(R249)	device_current
+	544	I(R248)	device_current
+	545	I(R247)	device_current
+	546	I(R246)	device_current
+	547	I(R245)	device_current
+	548	I(R244)	device_current
+	549	I(R243)	device_current
+	550	I(R242)	device_current
+	551	I(R241)	device_current
+	552	I(R240)	device_current
+	553	I(R239)	device_current
+	554	I(R238)	device_current
+	555	I(R237)	device_current
+	556	I(R236)	device_current
+	557	I(R235)	device_current
+	558	I(R234)	device_current
+	559	I(R233)	device_current
+	560	I(R232)	device_current
+	561	I(R231)	device_current
+	562	I(R230)	device_current
+	563	I(R229)	device_current
+	564	I(R228)	device_current
+	565	I(R227)	device_current
+	566	I(R226)	device_current
+	567	I(R225)	device_current
+	568	I(R224)	device_current
+	569	I(R223)	device_current
+	570	I(R222)	device_current
+	571	I(R221)	device_current
+	572	I(R220)	device_current
+	573	I(R219)	device_current
+	574	I(R218)	device_current
+	575	I(R217)	device_current
+	576	I(R216)	device_current
+	577	I(R215)	device_current
+	578	I(R214)	device_current
+	579	I(R213)	device_current
+	580	I(R212)	device_current
+	581	I(R211)	device_current
+	582	I(R210)	device_current
+	583	I(R209)	device_current
+	584	I(R208)	device_current
+	585	I(R207)	device_current
+	586	I(R206)	device_current
+	587	I(R205)	device_current
+	588	I(R204)	device_current
+	589	I(R203)	device_current
+	590	I(R202)	device_current
+	591	I(R201)	device_current
+	592	I(R200)	device_current
+	593	I(R199)	device_current
+	594	I(R198)	device_current
+	595	I(R197)	device_current
+	596	I(R196)	device_current
+	597	I(R195)	device_current
+	598	I(R194)	device_current
+	599	I(R193)	device_current
+	600	I(R192)	device_current
+	601	I(R191)	device_current
+	602	I(R190)	device_current
+	603	I(R189)	device_current
+	604	I(R188)	device_current
+	605	I(R187)	device_current
+	606	I(R186)	device_current
+	607	I(R101)	device_current
+	608	I(R100)	device_current
+	609	I(R99)	device_current
+	610	I(R98)	device_current
+	611	I(R97)	device_current
+	612	I(R96)	device_current
+	613	I(R95)	device_current
+	614	I(R94)	device_current
+	615	I(R93)	device_current
+	616	I(R92)	device_current
+	617	I(R91)	device_current
+	618	I(R90)	device_current
+	619	I(R89)	device_current
+	620	I(R88)	device_current
+	621	I(R87)	device_current
+	622	I(R86)	device_current
+	623	I(R85)	device_current
+	624	I(R84)	device_current
+	625	I(R83)	device_current
+	626	I(R82)	device_current
+	627	I(R81)	device_current
+	628	I(R80)	device_current
+	629	I(R79)	device_current
+	630	I(R78)	device_current
+	631	I(R77)	device_current
+	632	I(R76)	device_current
+	633	I(R75)	device_current
+	634	I(R74)	device_current
+	635	I(R73)	device_current
+	636	I(R72)	device_current
+	637	I(R71)	device_current
+	638	I(R70)	device_current
+	639	I(R69)	device_current
+	640	I(R68)	device_current
+	641	I(R67)	device_current
+	642	I(R66)	device_current
+	643	I(R65)	device_current
+	644	I(R64)	device_current
+	645	I(R63)	device_current
+	646	I(R62)	device_current
+	647	I(R61)	device_current
+	648	I(R60)	device_current
+	649	I(R59)	device_current
+	650	I(R58)	device_current
+	651	I(R57)	device_current
+	652	I(R56)	device_current
+	653	I(R55)	device_current
+	654	I(R54)	device_current
+	655	I(R53)	device_current
+	656	I(R52)	device_current
+	657	I(R51)	device_current
+	658	I(R50)	device_current
+	659	I(R49)	device_current
+	660	I(R48)	device_current
+	661	I(R47)	device_current
+	662	I(R46)	device_current
+	663	I(R45)	device_current
+	664	I(R44)	device_current
+	665	I(R43)	device_current
+	666	I(R42)	device_current
+	667	I(R41)	device_current
+	668	I(R40)	device_current
+	669	I(R39)	device_current
+	670	I(R38)	device_current
+	671	I(R37)	device_current
+	672	I(R36)	device_current
+	673	I(R35)	device_current
+	674	I(R34)	device_current
+	675	I(R33)	device_current
+	676	I(R32)	device_current
+	677	I(R31)	device_current
+	678	I(R30)	device_current
+	679	I(R29)	device_current
+	680	I(R28)	device_current
+	681	I(R27)	device_current
+	682	I(R26)	device_current
+	683	I(R25)	device_current
+	684	I(R24)	device_current
+	685	I(R23)	device_current
+	686	I(R22)	device_current
+	687	I(R9)	device_current
+	688	I(R8)	device_current
+	689	I(R7)	device_current
+	690	I(R6)	device_current
+	691	I(R362)	device_current
+	692	I(R361)	device_current
+	693	I(R358)	device_current
+	694	I(R357)	device_current
+	695	I(R356)	device_current
+	696	I(R355)	device_current
+	697	I(R354)	device_current
+	698	I(R21)	device_current
+	699	I(R20)	device_current
+	700	I(R19)	device_current
+	701	I(R18)	device_current
+	702	I(R17)	device_current
+	703	I(R16)	device_current
+	704	I(R15)	device_current
+	705	I(R14)	device_current
+	706	I(R13)	device_current
+	707	I(R12)	device_current
+	708	I(R11)	device_current
+	709	I(R10)	device_current
+	710	I(V3)	device_current
+	711	I(Vdd3)	device_current
+	712	I(V4)	device_current
+	713	I(Vdd2)	device_current
+	714	I(Voff3)	device_current
+	715	I(Voff2)	device_current
+	716	I(Voff1)	device_current
+	717	I(V2)	device_current
+	718	I(V1)	device_current
+	719	I(Vdd1)	device_current
+	720	I(Vtemp1)	device_current
+	721	Ix(u1:1)	subckt_current
+	722	Ix(u1:2)	subckt_current
+	723	Ix(u1:3)	subckt_current
+	724	Ix(u1:4)	subckt_current
+	725	Ix(u1:5)	subckt_current
+	726	Ix(u2:1)	subckt_current
+	727	Ix(u2:2)	subckt_current
+	728	Ix(u2:3)	subckt_current
+	729	Ix(u2:4)	subckt_current
+	730	Ix(u2:5)	subckt_current
+	731	Ix(u3:1)	subckt_current
+	732	Ix(u3:2)	subckt_current
+	733	Ix(u3:3)	subckt_current
+	734	Ix(u3:4)	subckt_current
+	735	Ix(u3:5)	subckt_current
+	736	Ix(u4:1)	subckt_current
+	737	Ix(u4:2)	subckt_current
+	738	Ix(u4:3)	subckt_current
+	739	Ix(u4:4)	subckt_current
+	740	Ix(u4:5)	subckt_current
+	741	Ix(u5:1)	subckt_current
+	742	Ix(u5:2)	subckt_current
+	743	Ix(u5:3)	subckt_current
+	744	Ix(u5:4)	subckt_current
+	745	Ix(u5:5)	subckt_current
+	746	Ix(u6:1)	subckt_current
+	747	Ix(u6:2)	subckt_current
+	748	Ix(u6:3)	subckt_current
+	749	Ix(u6:4)	subckt_current
+	750	Ix(u6:5)	subckt_current
+	751	Ix(u7:1)	subckt_current
+	752	Ix(u7:2)	subckt_current
+	753	Ix(u7:3)	subckt_current
+	754	Ix(u7:4)	subckt_current
+	755	Ix(u7:5)	subckt_current
+	756	Ix(u8:1)	subckt_current
+	757	Ix(u8:2)	subckt_current
+	758	Ix(u8:3)	subckt_current
+	759	Ix(u8:4)	subckt_current
+	760	Ix(u8:5)	subckt_current
+	761	Ix(u121:1)	subckt_current
+	762	Ix(u121:2)	subckt_current
+	763	Ix(u121:3)	subckt_current
+	764	Ix(u121:4)	subckt_current
+	765	Ix(u121:5)	subckt_current
+	766	Ix(u122:1)	subckt_current
+	767	Ix(u122:2)	subckt_current
+	768	Ix(u122:3)	subckt_current
+	769	Ix(u122:4)	subckt_current
+	770	Ix(u122:5)	subckt_current
+	771	Ix(u123:1)	subckt_current
+	772	Ix(u123:2)	subckt_current
+	773	Ix(u123:3)	subckt_current
+	774	Ix(u123:4)	subckt_current
+	775	Ix(u123:5)	subckt_current
+	776	Ix(u9:1)	subckt_current
+	777	Ix(u9:2)	subckt_current
+	778	Ix(u9:3)	subckt_current
+	779	Ix(u9:4)	subckt_current
+	780	Ix(u9:5)	subckt_current
+	781	Ix(u10:1)	subckt_current
+	782	Ix(u10:2)	subckt_current
+	783	Ix(u10:3)	subckt_current
+	784	Ix(u10:4)	subckt_current
+	785	Ix(u10:5)	subckt_current
+	786	Ix(u11:1)	subckt_current
+	787	Ix(u11:2)	subckt_current
+	788	Ix(u11:3)	subckt_current
+	789	Ix(u11:4)	subckt_current
+	790	Ix(u11:5)	subckt_current
+	791	Ix(u12:1)	subckt_current
+	792	Ix(u12:2)	subckt_current
+	793	Ix(u12:3)	subckt_current
+	794	Ix(u12:4)	subckt_current
+	795	Ix(u12:5)	subckt_current
+	796	Ix(u13:1)	subckt_current
+	797	Ix(u13:2)	subckt_current
+	798	Ix(u13:3)	subckt_current
+	799	Ix(u13:4)	subckt_current
+	800	Ix(u13:5)	subckt_current
+	801	Ix(u14:1)	subckt_current
+	802	Ix(u14:2)	subckt_current
+	803	Ix(u14:3)	subckt_current
+	804	Ix(u14:4)	subckt_current
+	805	Ix(u14:5)	subckt_current
+	806	Ix(u15:1)	subckt_current
+	807	Ix(u15:2)	subckt_current
+	808	Ix(u15:3)	subckt_current
+	809	Ix(u15:4)	subckt_current
+	810	Ix(u15:5)	subckt_current
+	811	Ix(u16:1)	subckt_current
+	812	Ix(u16:2)	subckt_current
+	813	Ix(u16:3)	subckt_current
+	814	Ix(u16:4)	subckt_current
+	815	Ix(u16:5)	subckt_current
+	816	Ix(u17:1)	subckt_current
+	817	Ix(u17:2)	subckt_current
+	818	Ix(u17:3)	subckt_current
+	819	Ix(u17:4)	subckt_current
+	820	Ix(u17:5)	subckt_current
+	821	Ix(u18:1)	subckt_current
+	822	Ix(u18:2)	subckt_current
+	823	Ix(u18:3)	subckt_current
+	824	Ix(u18:4)	subckt_current
+	825	Ix(u18:5)	subckt_current
+	826	Ix(u19:1)	subckt_current
+	827	Ix(u19:2)	subckt_current
+	828	Ix(u19:3)	subckt_current
+	829	Ix(u19:4)	subckt_current
+	830	Ix(u19:5)	subckt_current
+	831	Ix(u20:1)	subckt_current
+	832	Ix(u20:2)	subckt_current
+	833	Ix(u20:3)	subckt_current
+	834	Ix(u20:4)	subckt_current
+	835	Ix(u20:5)	subckt_current
+	836	Ix(u21:1)	subckt_current
+	837	Ix(u21:2)	subckt_current
+	838	Ix(u21:3)	subckt_current
+	839	Ix(u21:4)	subckt_current
+	840	Ix(u21:5)	subckt_current
+	841	Ix(u22:1)	subckt_current
+	842	Ix(u22:2)	subckt_current
+	843	Ix(u22:3)	subckt_current
+	844	Ix(u22:4)	subckt_current
+	845	Ix(u22:5)	subckt_current
+	846	Ix(u23:1)	subckt_current
+	847	Ix(u23:2)	subckt_current
+	848	Ix(u23:3)	subckt_current
+	849	Ix(u23:4)	subckt_current
+	850	Ix(u23:5)	subckt_current
+	851	Ix(u24:1)	subckt_current
+	852	Ix(u24:2)	subckt_current
+	853	Ix(u24:3)	subckt_current
+	854	Ix(u24:4)	subckt_current
+	855	Ix(u24:5)	subckt_current
+	856	Ix(u25:1)	subckt_current
+	857	Ix(u25:2)	subckt_current
+	858	Ix(u25:3)	subckt_current
+	859	Ix(u25:4)	subckt_current
+	860	Ix(u25:5)	subckt_current
+	861	Ix(u26:1)	subckt_current
+	862	Ix(u26:2)	subckt_current
+	863	Ix(u26:3)	subckt_current
+	864	Ix(u26:4)	subckt_current
+	865	Ix(u26:5)	subckt_current
+	866	Ix(u27:1)	subckt_current
+	867	Ix(u27:2)	subckt_current
+	868	Ix(u27:3)	subckt_current
+	869	Ix(u27:4)	subckt_current
+	870	Ix(u27:5)	subckt_current
+	871	Ix(u28:1)	subckt_current
+	872	Ix(u28:2)	subckt_current
+	873	Ix(u28:3)	subckt_current
+	874	Ix(u28:4)	subckt_current
+	875	Ix(u28:5)	subckt_current
+	876	Ix(u29:1)	subckt_current
+	877	Ix(u29:2)	subckt_current
+	878	Ix(u29:3)	subckt_current
+	879	Ix(u29:4)	subckt_current
+	880	Ix(u29:5)	subckt_current
+	881	Ix(u30:1)	subckt_current
+	882	Ix(u30:2)	subckt_current
+	883	Ix(u30:3)	subckt_current
+	884	Ix(u30:4)	subckt_current
+	885	Ix(u30:5)	subckt_current
+	886	Ix(u31:1)	subckt_current
+	887	Ix(u31:2)	subckt_current
+	888	Ix(u31:3)	subckt_current
+	889	Ix(u31:4)	subckt_current
+	890	Ix(u31:5)	subckt_current
+	891	Ix(u32:1)	subckt_current
+	892	Ix(u32:2)	subckt_current
+	893	Ix(u32:3)	subckt_current
+	894	Ix(u32:4)	subckt_current
+	895	Ix(u32:5)	subckt_current
+	896	Ix(u33:1)	subckt_current
+	897	Ix(u33:2)	subckt_current
+	898	Ix(u33:3)	subckt_current
+	899	Ix(u33:4)	subckt_current
+	900	Ix(u33:5)	subckt_current
+	901	Ix(u34:1)	subckt_current
+	902	Ix(u34:2)	subckt_current
+	903	Ix(u34:3)	subckt_current
+	904	Ix(u34:4)	subckt_current
+	905	Ix(u34:5)	subckt_current
+	906	Ix(u35:1)	subckt_current
+	907	Ix(u35:2)	subckt_current
+	908	Ix(u35:3)	subckt_current
+	909	Ix(u35:4)	subckt_current
+	910	Ix(u35:5)	subckt_current
+	911	Ix(u36:1)	subckt_current
+	912	Ix(u36:2)	subckt_current
+	913	Ix(u36:3)	subckt_current
+	914	Ix(u36:4)	subckt_current
+	915	Ix(u36:5)	subckt_current
+	916	Ix(u65:1)	subckt_current
+	917	Ix(u65:2)	subckt_current
+	918	Ix(u65:3)	subckt_current
+	919	Ix(u65:4)	subckt_current
+	920	Ix(u65:5)	subckt_current
+	921	Ix(u66:1)	subckt_current
+	922	Ix(u66:2)	subckt_current
+	923	Ix(u66:3)	subckt_current
+	924	Ix(u66:4)	subckt_current
+	925	Ix(u66:5)	subckt_current
+	926	Ix(u67:1)	subckt_current
+	927	Ix(u67:2)	subckt_current
+	928	Ix(u67:3)	subckt_current
+	929	Ix(u67:4)	subckt_current
+	930	Ix(u67:5)	subckt_current
+	931	Ix(u68:1)	subckt_current
+	932	Ix(u68:2)	subckt_current
+	933	Ix(u68:3)	subckt_current
+	934	Ix(u68:4)	subckt_current
+	935	Ix(u68:5)	subckt_current
+	936	Ix(u69:1)	subckt_current
+	937	Ix(u69:2)	subckt_current
+	938	Ix(u69:3)	subckt_current
+	939	Ix(u69:4)	subckt_current
+	940	Ix(u69:5)	subckt_current
+	941	Ix(u70:1)	subckt_current
+	942	Ix(u70:2)	subckt_current
+	943	Ix(u70:3)	subckt_current
+	944	Ix(u70:4)	subckt_current
+	945	Ix(u70:5)	subckt_current
+	946	Ix(u71:1)	subckt_current
+	947	Ix(u71:2)	subckt_current
+	948	Ix(u71:3)	subckt_current
+	949	Ix(u71:4)	subckt_current
+	950	Ix(u71:5)	subckt_current
+	951	Ix(u72:1)	subckt_current
+	952	Ix(u72:2)	subckt_current
+	953	Ix(u72:3)	subckt_current
+	954	Ix(u72:4)	subckt_current
+	955	Ix(u72:5)	subckt_current
+	956	Ix(u73:1)	subckt_current
+	957	Ix(u73:2)	subckt_current
+	958	Ix(u73:3)	subckt_current
+	959	Ix(u73:4)	subckt_current
+	960	Ix(u73:5)	subckt_current
+	961	Ix(u74:1)	subckt_current
+	962	Ix(u74:2)	subckt_current
+	963	Ix(u74:3)	subckt_current
+	964	Ix(u74:4)	subckt_current
+	965	Ix(u74:5)	subckt_current
+	966	Ix(u75:1)	subckt_current
+	967	Ix(u75:2)	subckt_current
+	968	Ix(u75:3)	subckt_current
+	969	Ix(u75:4)	subckt_current
+	970	Ix(u75:5)	subckt_current
+	971	Ix(u76:1)	subckt_current
+	972	Ix(u76:2)	subckt_current
+	973	Ix(u76:3)	subckt_current
+	974	Ix(u76:4)	subckt_current
+	975	Ix(u76:5)	subckt_current
+	976	Ix(u77:1)	subckt_current
+	977	Ix(u77:2)	subckt_current
+	978	Ix(u77:3)	subckt_current
+	979	Ix(u77:4)	subckt_current
+	980	Ix(u77:5)	subckt_current
+	981	Ix(u78:1)	subckt_current
+	982	Ix(u78:2)	subckt_current
+	983	Ix(u78:3)	subckt_current
+	984	Ix(u78:4)	subckt_current
+	985	Ix(u78:5)	subckt_current
+	986	Ix(u79:1)	subckt_current
+	987	Ix(u79:2)	subckt_current
+	988	Ix(u79:3)	subckt_current
+	989	Ix(u79:4)	subckt_current
+	990	Ix(u79:5)	subckt_current
+	991	Ix(u80:1)	subckt_current
+	992	Ix(u80:2)	subckt_current
+	993	Ix(u80:3)	subckt_current
+	994	Ix(u80:4)	subckt_current
+	995	Ix(u80:5)	subckt_current
+	996	Ix(u81:1)	subckt_current
+	997	Ix(u81:2)	subckt_current
+	998	Ix(u81:3)	subckt_current
+	999	Ix(u81:4)	subckt_current
+	1000	Ix(u81:5)	subckt_current
+	1001	Ix(u82:1)	subckt_current
+	1002	Ix(u82:2)	subckt_current
+	1003	Ix(u82:3)	subckt_current
+	1004	Ix(u82:4)	subckt_current
+	1005	Ix(u82:5)	subckt_current
+	1006	Ix(u83:1)	subckt_current
+	1007	Ix(u83:2)	subckt_current
+	1008	Ix(u83:3)	subckt_current
+	1009	Ix(u83:4)	subckt_current
+	1010	Ix(u83:5)	subckt_current
+	1011	Ix(u84:1)	subckt_current
+	1012	Ix(u84:2)	subckt_current
+	1013	Ix(u84:3)	subckt_current
+	1014	Ix(u84:4)	subckt_current
+	1015	Ix(u84:5)	subckt_current
+	1016	Ix(u85:1)	subckt_current
+	1017	Ix(u85:2)	subckt_current
+	1018	Ix(u85:3)	subckt_current
+	1019	Ix(u85:4)	subckt_current
+	1020	Ix(u85:5)	subckt_current
+	1021	Ix(u86:1)	subckt_current
+	1022	Ix(u86:2)	subckt_current
+	1023	Ix(u86:3)	subckt_current
+	1024	Ix(u86:4)	subckt_current
+	1025	Ix(u86:5)	subckt_current
+	1026	Ix(u87:1)	subckt_current
+	1027	Ix(u87:2)	subckt_current
+	1028	Ix(u87:3)	subckt_current
+	1029	Ix(u87:4)	subckt_current
+	1030	Ix(u87:5)	subckt_current
+	1031	Ix(u88:1)	subckt_current
+	1032	Ix(u88:2)	subckt_current
+	1033	Ix(u88:3)	subckt_current
+	1034	Ix(u88:4)	subckt_current
+	1035	Ix(u88:5)	subckt_current
+	1036	Ix(u89:1)	subckt_current
+	1037	Ix(u89:2)	subckt_current
+	1038	Ix(u89:3)	subckt_current
+	1039	Ix(u89:4)	subckt_current
+	1040	Ix(u89:5)	subckt_current
+	1041	Ix(u90:1)	subckt_current
+	1042	Ix(u90:2)	subckt_current
+	1043	Ix(u90:3)	subckt_current
+	1044	Ix(u90:4)	subckt_current
+	1045	Ix(u90:5)	subckt_current
+	1046	Ix(u91:1)	subckt_current
+	1047	Ix(u91:2)	subckt_current
+	1048	Ix(u91:3)	subckt_current
+	1049	Ix(u91:4)	subckt_current
+	1050	Ix(u91:5)	subckt_current
+	1051	Ix(u92:1)	subckt_current
+	1052	Ix(u92:2)	subckt_current
+	1053	Ix(u92:3)	subckt_current
+	1054	Ix(u92:4)	subckt_current
+	1055	Ix(u92:5)	subckt_current
+	1056	Ix(u124:1)	subckt_current
+	1057	Ix(u124:2)	subckt_current
+	1058	Ix(u124:3)	subckt_current
+	1059	Ix(u124:4)	subckt_current
+	1060	Ix(u124:5)	subckt_current
+	1061	Ix(u125:1)	subckt_current
+	1062	Ix(u125:2)	subckt_current
+	1063	Ix(u125:3)	subckt_current
+	1064	Ix(u125:4)	subckt_current
+	1065	Ix(u125:5)	subckt_current
+	1066	Ix(u126:1)	subckt_current
+	1067	Ix(u126:2)	subckt_current
+	1068	Ix(u126:3)	subckt_current
+	1069	Ix(u126:4)	subckt_current
+	1070	Ix(u126:5)	subckt_current
+Values:
+0		4.000000000000000e-001
+	3.300000000000000e+000
+	-1.000000000000000e+001
+	1.000000000000000e+001
+	1.000000000000000e+000
+	2.000000000000000e+000
+	2.400000000000000e+000
+	0.000000000000000e+000
+	6.416961559632015e-014
+	6.417050267904997e-014
+	6.416959492251256e-014
+	1.429627654332925e-006
+	-9.999957110977986e-001
+	-2.255643495876478e-006
+	1.649986945805853e+000
+	1.429627654314647e-006
+	-9.999957110977987e-001
+	-2.255643495765455e-006
+	1.649986945805853e+000
+	0.000000000000000e+000
+	1.649984735049604e+000
+	1.649984735049604e+000
+	2.106178051486617e-006
+	3.129820031418823e+000
+	2.654015007863633e-007
+	3.299999899847754e+000
+	1.652499862046997e-007
+	8.000000000000000e-001
+	8.262503017993489e-007
+	2.106178402152904e-006
+	3.129820031418823e+000
+	2.654015007863635e-007
+	3.299999899847754e+000
+	1.652499862046998e-007
+	7.789473684210524e-001
+	8.262503017993524e-007
+	2.106178051486620e-006
+	3.129820031418823e+000
+	2.654015007863633e-007
+	3.299999899847754e+000
+	1.652499862046997e-007
+	8.262503017993511e-007
+	2.106178402152903e-006
+	3.129820031418823e+000
+	2.654015007863635e-007
+	3.299999899847754e+000
+	1.652499862046998e-007
+	8.262503017993490e-007
+	3.805741260430082e-009
+	3.805746361372805e-009
+	5.445222120927570e-015
+	-3.805756902738040e-009
+	-5.270647036086262e-015
+	9.514460407048890e-010
+	9.514460233029799e-010
+	9.514460304993780e-010
+	9.514460337188671e-010
+	3.073175069284113e-016
+	3.300000000000000e+000
+	4.656320681884905e-009
+	6.657164970739163e-015
+	-4.656333614086269e-009
+	4.656353276773930e-009
+	3.088971349816516e-016
+	-6.466057030274885e-015
+	2.602333294444927e-011
+	8.263012195855457e-007
+	4.131506095956772e-007
+	-8.993808537480262e-010
+	-9.514279284135617e-010
+	1.924168861811499e-002
+	-4.131228681647216e-007
+	2.659562407126119e-011
+	4.131760597719526e-007
+	1.629124660339543e-002
+	1.924175154790785e-002
+	1.629130352114097e-002
+	5.076142814409276e-003
+	5.076142586570850e-003
+	1.521389408144762e-009
+	1.521389407723771e-009
+	1.521382753213778e-009
+	9.514473550690054e-010
+	1.924180065705540e-002
+	2.602307752844852e-011
+	2.602302955775153e-011
+	1.629134969369520e-002
+	1.924180063748900e-002
+	1.629134971469580e-002
+	5.076164554394886e-003
+	5.076164326553812e-003
+	3.108702549028722e-010
+	3.108702548169362e-010
+	3.108689377595758e-010
+	9.514473553265192e-010
+	3.073175057889152e-016
+	4.656320664619742e-009
+	6.658846706265870e-015
+	-4.656333592911615e-009
+	4.656353260246120e-009
+	3.092955188558082e-016
+	-6.464102298262665e-015
+	2.602333290364611e-011
+	8.263012195875032e-007
+	4.131506095966559e-007
+	-8.993808537683524e-010
+	1.924168861811499e-002
+	-4.131228681632387e-007
+	2.659562552926959e-011
+	4.131760597733858e-007
+	1.629124660339542e-002
+	1.924175154790785e-002
+	1.629130352114097e-002
+	5.076142814409272e-003
+	5.076142586570849e-003
+	1.521389404322949e-009
+	1.521389403901955e-009
+	1.521382747813607e-009
+	9.514473395983459e-010
+	1.924180065705540e-002
+	2.602307760909557e-011
+	2.602302957767333e-011
+	1.629134969369520e-002
+	1.924180063748899e-002
+	1.629134971469579e-002
+	5.076164554394884e-003
+	5.076164326553811e-003
+	3.108702540084054e-010
+	3.108702539224610e-010
+	3.108689327048196e-010
+	9.514473398558634e-010
+	3.073175064005360e-016
+	4.656320673886795e-009
+	6.655998743425819e-015
+	-4.656333600946309e-009
+	4.656353260088383e-009
+	3.089440226832422e-016
+	-6.463486122325387e-015
+	2.602333290736511e-011
+	8.263012195867656e-007
+	4.131506095962871e-007
+	-8.993808537673985e-010
+	1.924168861811499e-002
+	-4.131228681658202e-007
+	2.659562414378839e-011
+	4.131760597731962e-007
+	1.629124660339542e-002
+	1.924175154790785e-002
+	1.629130352114097e-002
+	5.076142814409271e-003
+	5.076142586570849e-003
+	1.521389402425595e-009
+	1.521389402004605e-009
+	1.521382747762064e-009
+	9.514473423063694e-010
+	1.924180065705540e-002
+	2.602307760576833e-011
+	2.602302957786921e-011
+	1.629134969369520e-002
+	1.924180063748900e-002
+	1.629134971469580e-002
+	5.076164554394886e-003
+	5.076164326553812e-003
+	3.108702549841873e-010
+	3.108702548982428e-010
+	3.108689335896167e-010
+	9.514473425638780e-010
+	3.073175057498383e-016
+	4.656320664027730e-009
+	6.658940444234041e-015
+	-4.656333593080462e-009
+	4.656353261044941e-009
+	3.089467596882179e-016
+	-6.464482725243823e-015
+	2.602333293743478e-011
+	8.263012195855043e-007
+	4.131506095956565e-007
+	-8.993808537741871e-010
+	1.924168861811499e-002
+	-4.131228681594260e-007
+	2.659562498444212e-011
+	4.131760597684833e-007
+	1.629124660339542e-002
+	1.924175154790785e-002
+	1.629130352114097e-002
+	5.076142814409272e-003
+	5.076142586570849e-003
+	1.521389404295844e-009
+	1.521389403874851e-009
+	1.521382748074608e-009
+	9.514473469843123e-010
+	1.924180065705540e-002
+	2.602307753510993e-011
+	2.602302955757499e-011
+	1.629134969369520e-002
+	1.924180063748899e-002
+	1.629134971469579e-002
+	5.076164554394884e-003
+	5.076164326553811e-003
+	3.108702542794559e-010
+	3.108702541935159e-010
+	3.108689351180477e-010
+	9.514473472418238e-010
+	5.271836195484361e-015
+	3.558465672721483e-020
+	-3.805725306658957e-009
+	0.000000000000000e+000
+	3.805735850402525e-009
+	-3.805720165668705e-009
+	3.805741123087093e-009
+	7.578947368421048e-001
+	7.368421052631573e-001
+	6.315789473684200e-001
+	7.157894736842098e-001
+	6.947368421052623e-001
+	6.736842105263149e-001
+	6.526315789473675e-001
+	3.558465672721483e-023
+	-3.073171388465218e-013
+	0.000000000000000e+000
+	-6.456563262568564e-021
+	3.073171453030851e-013
+	-3.073171388465219e-013
+	0.000000000000000e+000
+	-6.456563272427628e-021
+	3.073171453030851e-013
+	-3.073171388465218e-013
+	0.000000000000000e+000
+	-6.456563263160575e-021
+	3.073171453030851e-013
+	-3.073171388465219e-013
+	0.000000000000000e+000
+	-6.456563280425738e-021
+	3.073171453030851e-013
+	6.609997559356698e-012
+	0.000000000000000e+000
+	-1.145693027013352e-018
+	-6.609996413663671e-012
+	6.609998347499396e-012
+	0.000000000000000e+000
+	-3.309999173749698e-012
+	-3.299999173749698e-012
+	6.609999573157085e-012
+	0.000000000000000e+000
+	-1.388723740626421e-019
+	-6.609999434284711e-012
+	3.281200314200638e-011
+	0.000000000000000e+000
+	-2.920443426467712e-018
+	-3.281200022156296e-011
+	5.731001394827148e-018
+	0.000000000000000e+000
+	-2.920443426477704e-018
+	-2.810557968349444e-018
+	6.609999566886339e-012
+	0.000000000000000e+000
+	-2.291393189178738e-019
+	-6.609999337747020e-012
+	6.610044159570124e-012
+	0.000000000000000e+000
+	-3.309999899847754e-012
+	-3.300044259722371e-012
+	6.609997559356698e-012
+	0.000000000000000e+000
+	-1.145693027013354e-018
+	-6.609996413663671e-012
+	6.609998347499396e-012
+	0.000000000000000e+000
+	-3.309999173749698e-012
+	-3.299999173749698e-012
+	6.609999573157085e-012
+	0.000000000000000e+000
+	-1.388723740626421e-019
+	-6.609999434284711e-012
+	3.369880949107622e-011
+	0.000000000000000e+000
+	-2.920442940258741e-018
+	-3.369880657063328e-011
+	5.731000557929688e-018
+	0.000000000000000e+000
+	-2.920442940246528e-018
+	-2.810557617683160e-018
+	6.609999566886339e-012
+	0.000000000000000e+000
+	-2.291393189178737e-019
+	-6.609999337747020e-012
+	6.610044159555353e-012
+	0.000000000000000e+000
+	-3.309999899847754e-012
+	-3.300044259707599e-012
+	6.609997559356698e-012
+	0.000000000000000e+000
+	-1.145693027013356e-018
+	-6.609996413663671e-012
+	6.609998347499396e-012
+	0.000000000000000e+000
+	-3.309999173749698e-012
+	-3.299999173749698e-012
+	6.609999573157085e-012
+	0.000000000000000e+000
+	-1.388723740626421e-019
+	-6.609999434284711e-012
+	3.281200314200638e-011
+	0.000000000000000e+000
+	-2.920443426467713e-018
+	-3.281200022156296e-011
+	5.731001394827150e-018
+	0.000000000000000e+000
+	-2.920443426477705e-018
+	-2.810557968349445e-018
+	6.609999566886339e-012
+	0.000000000000000e+000
+	-2.291393189178738e-019
+	-6.609999337747020e-012
+	6.610044159570124e-012
+	0.000000000000000e+000
+	-3.309999899847754e-012
+	-3.300044259722371e-012
+	6.609997559356698e-012
+	0.000000000000000e+000
+	-1.145693027013352e-018
+	-6.609996413663671e-012
+	6.609998347499396e-012
+	0.000000000000000e+000
+	-3.309999173749698e-012
+	-3.299999173749698e-012
+	6.609999573157085e-012
+	0.000000000000000e+000
+	-1.388723740626421e-019
+	-6.609999434284711e-012
+	3.369880949107622e-011
+	0.000000000000000e+000
+	-2.920442940258737e-018
+	-3.369880657063328e-011
+	5.731000557929682e-018
+	0.000000000000000e+000
+	-2.920442940246524e-018
+	-2.810557617683158e-018
+	6.609999566886339e-012
+	0.000000000000000e+000
+	-2.291393189178737e-019
+	-6.609999337747020e-012
+	6.610044159555353e-012
+	0.000000000000000e+000
+	-3.309999899847754e-012
+	-3.300044259707599e-012
+	-6.609999569501723e-012
+	-0.000000000000000e+000
+	3.309999734598499e-012
+	3.299999834903223e-012
+	-5.326379052237571e-006
+	-0.000000000000000e+000
+	1.801660839583207e-013
+	5.326378872071487e-006
+	-6.609995887947919e-012
+	-0.000000000000000e+000
+	3.309997893821598e-012
+	3.299997994126322e-012
+	-6.610044159381415e-012
+	-0.000000000000000e+000
+	1.388733883145310e-019
+	6.610044020508026e-012
+	-5.326379052237566e-006
+	-0.000000000000000e+000
+	3.139817925240421e-012
+	5.326375912419641e-006
+	-6.609999569501723e-012
+	-0.000000000000000e+000
+	3.309999734598499e-012
+	3.299999834903223e-012
+	-5.326379052237571e-006
+	-0.000000000000000e+000
+	1.801660839583207e-013
+	5.326378872071487e-006
+	-6.609995887948621e-012
+	-0.000000000000000e+000
+	3.309997893821949e-012
+	3.299997994126673e-012
+	-6.610044159382117e-012
+	-0.000000000000000e+000
+	1.388733883145310e-019
+	6.610044020508728e-012
+	-5.326379052237566e-006
+	-0.000000000000000e+000
+	3.139817925240771e-012
+	5.326375912419641e-006
+	-6.609999569501723e-012
+	-0.000000000000000e+000
+	3.309999734598499e-012
+	3.299999834903223e-012
+	-5.326379052237568e-006
+	-0.000000000000000e+000
+	1.801660839583207e-013
+	5.326378872071485e-006
+	-6.609995887947919e-012
+	-0.000000000000000e+000
+	3.309997893821598e-012
+	3.299997994126322e-012
+	-6.610044159381415e-012
+	-0.000000000000000e+000
+	1.388733883145310e-019
+	6.610044020508026e-012
+	-5.326379052237566e-006
+	-0.000000000000000e+000
+	3.139817925240421e-012
+	5.326375912419641e-006
+	-6.609999569501723e-012
+	-0.000000000000000e+000
+	3.309999734598499e-012
+	3.299999834903223e-012
+	-5.326379052237568e-006
+	-0.000000000000000e+000
+	1.801660839583207e-013
+	5.326378872071485e-006
+	-6.609995887948621e-012
+	-0.000000000000000e+000
+	3.309997893821949e-012
+	3.299997994126673e-012
+	-6.610044159382117e-012
+	-0.000000000000000e+000
+	1.388733883145310e-019
+	6.610044020508728e-012
+	-5.326379052237566e-006
+	-0.000000000000000e+000
+	3.139817925240771e-012
+	5.326375912419641e-006
+	1.902870561543546e-027
+	3.073175057498383e-013
+	3.073175064005360e-013
+	3.073175057889152e-013
+	3.073175069284113e-013
+	8.262503017993489e-026
+	2.654015007863635e-027
+	5.326352850224575e-006
+	8.262503017993511e-026
+	2.654015007863633e-027
+	5.326351963418237e-006
+	8.262503017993524e-026
+	2.654015007863635e-027
+	5.326352850224578e-006
+	8.262503017993488e-026
+	2.654015007863633e-027
+	5.326351963418228e-006
+	-1.907971967177025e-007
+	-1.907896997213962e-007
+	3.889801774659266e-007
+	3.889580362812827e-007
+	-1.907896995308505e-007
+	-1.907971965271637e-007
+	3.889580368041128e-007
+	3.889801779905442e-007
+	-1.907930290041776e-007
+	-1.907967859935322e-007
+	3.889677910460773e-007
+	3.889788868254044e-007
+	-1.907962695701924e-007
+	-1.908000097165547e-007
+	3.889772005159962e-007
+	3.889882467882278e-007
+	-1.907971967177025e-007
+	-1.907896997213963e-007
+	3.889801774659266e-007
+	3.889580362812827e-007
+	-1.907896995308505e-007
+	-1.907971965271637e-007
+	3.889580368041128e-007
+	3.889801779905442e-007
+	-1.907930290041775e-007
+	-1.907967859935322e-007
+	3.889677910460773e-007
+	3.889788868254044e-007
+	-1.907962695701924e-007
+	-1.908000097165547e-007
+	3.889772005159962e-007
+	3.889882467882278e-007
+	-1.907971967177025e-007
+	-1.907896997213962e-007
+	3.889801774659266e-007
+	3.889580362812827e-007
+	-1.907896995308506e-007
+	-1.907971965271637e-007
+	3.889580368041128e-007
+	3.889801779905442e-007
+	-1.907930290041775e-007
+	-1.907967859935322e-007
+	3.889677910460773e-007
+	3.889788868254044e-007
+	-1.907962695701924e-007
+	-1.908000097165548e-007
+	3.889772005159962e-007
+	3.889882467882278e-007
+	-1.907971967177025e-007
+	-1.907896997213963e-007
+	3.889801774659266e-007
+	3.889580362812827e-007
+	-1.907896995308506e-007
+	-1.907971965271637e-007
+	3.889580368041128e-007
+	3.889801779905442e-007
+	-1.907930290041775e-007
+	-1.907967859935322e-007
+	3.889677910460773e-007
+	3.889788868254044e-007
+	-1.907962695701924e-007
+	-1.908000097165548e-007
+	3.889772005159962e-007
+	3.889882467882278e-007
+	2.105263157894743e-006
+	2.105263157894743e-006
+	2.105263157894743e-006
+	2.105263157894743e-006
+	2.105263157894754e-006
+	2.105263157894733e-006
+	2.105263157894754e-006
+	2.105263157894754e-006
+	2.105263157894766e-006
+	-9.514279284135617e-013
+	-9.514307457517144e-013
+	6.867149468812237e-021
+	-3.805730578495152e-012
+	-3.805730578566329e-012
+	3.558465672721483e-023
+	-3.558465672721483e-023
+	-9.420270761152960e-013
+	1.716743051001742e-021
+	-9.420270766526119e-013
+	5.729332095999007e-022
+	-2.950450922793200e-006
+	-2.950450963360201e-006
+	-2.243037073428278e-006
+	-2.833127262187036e-006
+	-2.243037032060181e-006
+	-2.833127220532104e-006
+	-5.076164326553812e-006
+	5.076164243524631e-006
+	3.258269942939158e-007
+	6.561516398725021e-006
+	3.258269938739041e-007
+	6.561516398685889e-006
+	3.033798597909485e-019
+	-4.797753493964513e-020
+	-4.610250751741236e-012
+	-4.610250754368137e-012
+	2.806622439758069e-021
+	-2.950448026766878e-006
+	-2.950442014719567e-006
+	-2.243020803364915e-006
+	-2.833121792267399e-006
+	-2.243032141346340e-006
+	-2.833109160741144e-006
+	-5.076142586570849e-006
+	5.076141293019868e-006
+	3.258260704228194e-007
+	6.561516496904183e-006
+	3.258249320679085e-007
+	6.561516622763769e-006
+	4.131494641434989e-010
+	4.131494637844105e-010
+	4.131506095956565e-010
+	4.131506099898479e-010
+	-4.656327128597737e-012
+	-4.656327128510455e-012
+	6.349993684545824e-018
+	-4.656346602104497e-012
+	-4.656340252020906e-012
+	-9.420270714836868e-013
+	1.716723750120783e-021
+	-9.420270720209725e-013
+	5.729635395556943e-022
+	-2.950450922793200e-006
+	-2.950450963360201e-006
+	-2.243037073428278e-006
+	-2.833127262187037e-006
+	-2.243037032060182e-006
+	-2.833127220532104e-006
+	-5.076164326553812e-006
+	5.076164243524632e-006
+	3.258269942939159e-007
+	6.561516398725021e-006
+	3.258269938739041e-007
+	6.561516398685889e-006
+	3.033294958944581e-019
+	-4.802789911724778e-020
+	-4.610250750794134e-012
+	-4.610250753421057e-012
+	2.806600381608401e-021
+	-2.950448026766878e-006
+	-2.950442014719567e-006
+	-2.243020803364915e-006
+	-2.833121792267399e-006
+	-2.243032141346340e-006
+	-2.833109160741144e-006
+	-5.076142586570849e-006
+	5.076141293019868e-006
+	3.258260704228194e-007
+	6.561516496904183e-006
+	3.258249320679085e-007
+	6.561516622763769e-006
+	4.131494641490525e-010
+	4.131494637899640e-010
+	4.131506095962871e-010
+	4.131506099904785e-010
+	-4.656327137460187e-012
+	-4.656327137372918e-012
+	6.347054720742577e-018
+	-4.656346604089640e-012
+	-4.656340256945052e-012
+	-9.420270688024835e-013
+	1.716783031398016e-021
+	-9.420270693397702e-013
+	5.729625055799286e-022
+	-2.950450922793200e-006
+	-2.950450963360201e-006
+	-2.243037073428278e-006
+	-2.833127262187036e-006
+	-2.243037032060181e-006
+	-2.833127220532104e-006
+	-5.076164326553812e-006
+	5.076164243524631e-006
+	3.258269942939158e-007
+	6.561516398725021e-006
+	3.258269938739041e-007
+	6.561516398685889e-006
+	3.033259727706705e-019
+	-4.803142223457301e-020
+	-4.610250750950326e-012
+	-4.610250753577224e-012
+	2.806626575661132e-021
+	-2.950448026766878e-006
+	-2.950442014719567e-006
+	-2.243020803364915e-006
+	-2.833121792267399e-006
+	-2.243032141346340e-006
+	-2.833109160741144e-006
+	-5.076142586570849e-006
+	5.076141293019868e-006
+	3.258260704228194e-007
+	6.561516496904183e-006
+	3.258249320679085e-007
+	6.561516622763769e-006
+	4.131494641478565e-010
+	4.131494637887680e-010
+	4.131506095966559e-010
+	4.131506099908473e-010
+	-4.656327128809316e-012
+	-4.656327128722040e-012
+	6.349551187410062e-018
+	-4.656346601399414e-012
+	-4.656340251758322e-012
+	-9.420270841199267e-013
+	1.716758215979639e-021
+	-9.420270846572697e-013
+	5.729063262299927e-022
+	-2.950450922793200e-006
+	-2.950450963360201e-006
+	-2.243037073428278e-006
+	-2.833127262187037e-006
+	-2.243037032060182e-006
+	-2.833127220532104e-006
+	-5.076164326553812e-006
+	5.076164243524632e-006
+	3.258269942939159e-007
+	6.561516398725021e-006
+	3.258269938739041e-007
+	6.561516398685889e-006
+	3.033866977441057e-019
+	-4.797069699295033e-020
+	-4.610250767314479e-012
+	-4.610250769941399e-012
+	2.806604517511464e-021
+	-2.950448026766878e-006
+	-2.950442014719563e-006
+	-2.243020803364916e-006
+	-2.833121792267400e-006
+	-2.243032141346340e-006
+	-2.833109160741143e-006
+	-5.076142586570850e-006
+	5.076141293019867e-006
+	3.258260704228195e-007
+	6.561516496904183e-006
+	3.258249320679086e-007
+	6.561516622763769e-006
+	4.131494641478814e-010
+	4.131494637887928e-010
+	4.131506095956772e-010
+	4.131506099898685e-010
+	-4.656327148029238e-012
+	-4.656327147941935e-012
+	6.348267835757512e-018
+	-4.656346619608959e-012
+	-4.656340271251240e-012
+	-9.514405884967461e-013
+	-9.514405852772570e-013
+	-9.514405780808590e-013
+	-9.514405954827681e-013
+	-3.805751632091004e-012
+	-3.805751632019841e-012
+	-3.805762347960162e-012
+	9.999934554543030e-004
+	9.999934554238477e-004
+	-9.999985703723457e-004
+	1.429627590145052e-009
+	-9.999971407254531e-004
+	9.999934554543028e-004
+	9.999934554238477e-004
+	-9.999985703723457e-004
+	1.429627590162423e-009
+	-9.999971407254531e-004
+	2.067380758332117e-023
+	8.870827298228247e-022
+	-2.105263157894762e-006
+	0.000000000000000e+000
+	8.662895956235144e-022
+	4.582412363365299e-005
+	0.000000000000000e+000
+	0.000000000000000e+000
+	-1.999997140744691e-003
+	-1.567482746936823e-001
+	1.588074328816068e-001
+	-1.262898856374163e-004
+	0.000000000000000e+000
+	-8.662898747199376e-022
+	8.664038369896730e-022
+	2.250000313053410e-003
+	-2.250001742680990e-003
+	1.429627589488029e-009
+	-1.929997476312214e-014
+	1.930252766964543e-014
+	1.361115902158412e-003
+	-3.361106286939228e-003
+	1.999990598179745e-003
+	3.045118944997594e-014
+	-3.045521738479022e-014
+	2.777775005090219e-003
+	-1.777781880087182e-003
+	-9.999934617000729e-004
+	-1.929997476287539e-014
+	1.930252766939986e-014
+	1.361115902158413e-003
+	-3.361106286939226e-003
+	1.999990598179741e-003
+	3.045118944847714e-014
+	-3.045521738329257e-014
+	2.777775005090219e-003
+	-1.777781880087182e-003
+	-9.999934617000729e-004
+	-8.662895956235144e-022
+	8.664038369896730e-022
+	2.250000313053410e-003
+	-2.250001742680990e-003
+	1.429627589488029e-009
+	2.976250471933247e-012
+	2.916556101022926e-012
+	2.250000863030697e-003
+	-2.250001192703589e-003
+	-6.216529895021754e-012
+	2.976250471945237e-012
+	2.916556101010936e-012
+	2.250000863030697e-003
+	-2.250001192703589e-003
+	-6.216529895021754e-012
+	6.864838088514124e-021
+	6.727104492724318e-021
+	2.250001027867142e-003
+	-2.250001027867143e-003
+	-1.999999999238852e-024
+	-7.351050407774431e-023
+	7.351890811491812e-023
+	2.250001024061386e-003
+	-2.250001031672900e-003
+	7.611515150799607e-012
+	7.115374025781157e-023
+	-7.116338207370266e-023
+	2.250001029770019e-003
+	-2.250001025964267e-003
+	-3.805752154391941e-012
+	-8.987173376214367e-023
+	8.988480578125048e-023
+	2.250001023210810e-003
+	-2.250001032523476e-003
+	9.312667390707572e-012
+	8.729177637476798e-023
+	-8.730471312842395e-023
+	2.250001030348964e-003
+	-2.250001025385321e-003
+	-4.963644079094333e-012
+	-2.132498029837300e-026
+	2.100263274060422e-026
+	2.250001027867139e-003
+	-2.250001027867146e-003
+	6.938891903907229e-018
+	-3.513108719867472e-019
+	3.513573438105184e-019
+	2.249711148519266e-003
+	-2.250290925889565e-003
+	5.797773741829382e-007
+	-7.043345373111988e-019
+	7.010295236116359e-019
+	2.249421290648304e-003
+	-2.250580839783439e-003
+	1.159549142904035e-006
+	-3.590409515576502e-019
+	3.590884420029032e-019
+	2.249710936517079e-003
+	-2.250291137919077e-003
+	5.802014059687506e-007
+	9.061464514181732e-015
+	9.067616558997395e-015
+	2.247463672984419e-003
+	-2.252539814261558e-003
+	5.076141293019944e-006
+	2.806602369147754e-021
+	2.626917214728144e-021
+	2.250001032500440e-003
+	-2.250001023233846e-003
+	-9.266595737274843e-012
+	3.941915392207677e-019
+	1.081391798889374e-018
+	2.249711363357186e-003
+	-2.250290711023974e-003
+	5.793476705851473e-007
+	1.716755123611870e-021
+	1.681267213233903e-021
+	2.250001028342864e-003
+	-2.250001027391422e-003
+	-9.514424838283925e-013
+	-3.513109250526751e-019
+	3.513573955093067e-019
+	2.249711148519099e-003
+	-2.250290925889732e-003
+	5.797773745177398e-007
+	9.061503299830203e-015
+	9.067655416149174e-015
+	2.247463661515639e-003
+	-2.252539825743282e-003
+	5.076164243524289e-006
+	5.729040928240423e-022
+	5.373442807326895e-022
+	2.250001028338157e-003
+	-2.250001027396129e-003
+	-9.420277058433974e-013
+	7.880568038046659e-019
+	2.162928057117913e-018
+	2.249421524028742e-003
+	-2.250580606342867e-003
+	1.159082321722064e-006
+	-8.989443719343595e-023
+	8.990742400112498e-023
+	2.250001023210810e-003
+	-2.250001032523476e-003
+	9.312667390707572e-012
+	8.726538749064827e-023
+	-8.727886373428167e-023
+	2.250001030348964e-003
+	-2.250001025385321e-003
+	-4.963644079094333e-012
+	-2.670317838106785e-026
+	2.584939414228212e-026
+	2.250001027867139e-003
+	-2.250001027867146e-003
+	6.938891903907229e-018
+	-3.513108714359198e-019
+	3.513573421949313e-019
+	2.249711148519266e-003
+	-2.250290925889565e-003
+	5.797773741829382e-007
+	-7.043345370367951e-019
+	7.010295236116359e-019
+	2.249421290648304e-003
+	-2.250580839783439e-003
+	1.159549142904035e-006
+	-3.590409712407651e-019
+	3.590884630055360e-019
+	2.249710936517079e-003
+	-2.250291137919077e-003
+	5.802014059687506e-007
+	9.061464514216862e-015
+	9.067616558961852e-015
+	2.247463672984419e-003
+	-2.252539814261558e-003
+	5.076141293019944e-006
+	2.806623676940582e-021
+	2.626896212095403e-021
+	2.250001032500440e-003
+	-2.250001023233846e-003
+	-9.266595737274843e-012
+	3.941915330852047e-019
+	1.081391805351723e-018
+	2.249711363357186e-003
+	-2.250290711023974e-003
+	5.793476705851473e-007
+	1.716781195483339e-021
+	1.681239748252627e-021
+	2.250001028342864e-003
+	-2.250001027391422e-003
+	-9.514424838283925e-013
+	-3.513109253216195e-019
+	3.513573955093067e-019
+	2.249711148519099e-003
+	-2.250290925889732e-003
+	5.797773745177398e-007
+	9.061503299841913e-015
+	9.067655416137865e-015
+	2.247463661515639e-003
+	-2.252539825743282e-003
+	5.076164243524289e-006
+	5.729602566217835e-022
+	5.372877351830032e-022
+	2.250001028338157e-003
+	-2.250001027396129e-003
+	-9.420277058433974e-013
+	7.880567774256756e-019
+	2.162928082967307e-018
+	2.249421524028742e-003
+	-2.250580606342867e-003
+	1.159082321722064e-006
+	-8.985598969224729e-023
+	8.986864990991156e-023
+	2.250001023210810e-003
+	-2.250001032523476e-003
+	9.312667390707572e-012
+	8.725706911487884e-023
+	-8.727078579861221e-023
+	2.250001030348964e-003
+	-2.250001025385321e-003
+	-4.963644079094333e-012
+	-2.195797144304995e-026
+	2.261821987449685e-026
+	2.250001027867139e-003
+	-2.250001027867146e-003
+	6.938891903907229e-018
+	-3.513108714861181e-019
+	3.513573421949313e-019
+	2.249711148519266e-003
+	-2.250290925889565e-003
+	5.797773741829382e-007
+	-7.043345370496733e-019
+	7.010295236116359e-019
+	2.249421290648304e-003
+	-2.250580839783439e-003
+	1.159549142904035e-006
+	-3.590409525367674e-019
+	3.590884436184904e-019
+	2.249710936517079e-003
+	-2.250291137919077e-003
+	5.802014059687506e-007
+	9.061464514240280e-015
+	9.067616558939234e-015
+	2.247463672984419e-003
+	-2.252539814261558e-003
+	5.076141293019944e-006
+	2.806598758549712e-021
+	2.626920445902412e-021
+	2.250001032500440e-003
+	-2.250001023233846e-003
+	-9.266595737274843e-012
+	3.941915306645696e-019
+	1.081391806967310e-018
+	2.249711363357186e-003
+	-2.250290711023974e-003
+	5.793476705851473e-007
+	1.716720602421103e-021
+	1.681299524976581e-021
+	2.250001028342864e-003
+	-2.250001027391422e-003
+	-9.514424838283925e-013
+	-3.513109253242640e-019
+	3.513573955093067e-019
+	2.249711148519099e-003
+	-2.250290925889732e-003
+	5.797773745177398e-007
+	9.061503299830203e-015
+	9.067655416149174e-015
+	2.247463661515639e-003
+	-2.252539825743282e-003
+	5.076164243524289e-006
+	5.729614849152908e-022
+	5.372861195958693e-022
+	2.250001028338157e-003
+	-2.250001027396129e-003
+	-9.420277058433974e-013
+	7.880567873669314e-019
+	2.162928071658197e-018
+	2.249421524028742e-003
+	-2.250580606342867e-003
+	1.159082321722064e-006
+	-8.989570265609999e-023
+	8.990903958825887e-023
+	2.250001023210810e-003
+	-2.250001032523476e-003
+	9.312667390707572e-012
+	8.727052325527433e-023
+	-8.728371049568335e-023
+	2.250001030348964e-003
+	-2.250001025385321e-003
+	-4.963644079094333e-012
+	-2.199492979737940e-026
+	2.261821987449685e-026
+	2.250001027867139e-003
+	-2.250001027867146e-003
+	6.938891903907229e-018
+	-3.513108718920675e-019
+	3.513573421949313e-019
+	2.249711148519266e-003
+	-2.250290925889565e-003
+	5.797773741829382e-007
+	-7.043345369580262e-019
+	7.010295236116359e-019
+	2.249421290648304e-003
+	-2.250580839783439e-003
+	1.159549142904035e-006
+	-3.590409638855936e-019
+	3.590884549276003e-019
+	2.249710936517079e-003
+	-2.250291137919077e-003
+	5.802014059687506e-007
+	9.061464514216862e-015
+	9.067616558961852e-015
+	2.247463672984419e-003
+	-2.252539814261558e-003
+	5.076141293019944e-006
+	2.806619787526403e-021
+	2.626899443269671e-021
+	2.250001032500440e-003
+	-2.250001023233846e-003
+	-9.266595737274843e-012
+	3.941915857760048e-019
+	1.081391753652935e-018
+	2.249711363357186e-003
+	-2.250290711023974e-003
+	5.793476705851473e-007
+	1.716740291549359e-021
+	1.681281753518108e-021
+	2.250001028342864e-003
+	-2.250001027391422e-003
+	-9.514424838283925e-013
+	-3.513109250502919e-019
+	3.513573955093067e-019
+	2.249711148519099e-003
+	-2.250290925889732e-003
+	5.797773745177398e-007
+	9.061503299841913e-015
+	9.067655416137865e-015
+	2.247463661515639e-003
+	-2.252539825743282e-003
+	5.076164243524289e-006
+	5.729313372813472e-022
+	5.373168157514133e-022
+	2.250001028338157e-003
+	-2.250001027396129e-003
+	-9.420277058433974e-013
+	7.880568043649782e-019
+	2.162928057117913e-018
+	2.249421524028742e-003
+	-2.250580606342867e-003
+	1.159082321722064e-006
+	-7.116931351797368e-023
+	7.117953794504159e-023
+	2.250001025964278e-003
+	-2.250001029770008e-003
+	3.805730470344491e-012
+	-6.865341571682437e-021
+	-6.726526112530384e-021
+	2.250001027391428e-003
+	-2.250001028342858e-003
+	9.514303407600605e-013
+	6.867148525660725e-021
+	6.724776431664378e-021
+	2.250001029770008e-003
+	-2.250001025964278e-003
+	-3.805730470348491e-012

@@ -1,0 +1,42 @@
+Circuit: * C:\Users\Avi\Desktop\IEEGIT\TBioCAS2021\FIG5\8OZ\pure\OZ_8_pure_curves.asc
+
+WARNING: Less than two connections to node VREF.  This node is used by VOFF2.
+Direct Newton iteration for .op point skipped.
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Apr 27 08:53:28 2021
+Total elapsed time: 67.342 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 67876
+traniter = 67488
+tranpoints = 17390
+accept = 12935
+rejected = 4455
+matrix size = 905
+fillins = 5267
+solver = Normal
+Thread vector: 1780.8/279.9[8] 97.8/48.3[8] 199.2/49.6[8] 13.9/6.2[8]  2592/500
+Matrix Compiler1: 538.94 KB object code size  126.7/68.7/[35.5]
+Matrix Compiler2:   14096 opcodes  26.2/[19.3]/25.1
+
